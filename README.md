@@ -73,7 +73,7 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [Healthchecks.io](https://healthchecks.io) - Cron job monitoring. Get alerted when your cron jobs don't run on time.
 
-[PageGuard](https://pageguard.qiudeqiu.workers.dev) - Free website health scanner that audits SEO, Performance, Accessibility & Best Practices in 30 seconds. AI-powered insights, no login required.
+[PageGuard](https://pageguard.org) - Free website health scanner that audits SEO, Performance, Accessibility & Best Practices in 30 seconds. AI-powered insights, no login required.
 
 ## Image Processing
 
